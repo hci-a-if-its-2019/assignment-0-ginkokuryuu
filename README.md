@@ -1,2 +1,3 @@
-# assignment-0-ginkokuryuu
-assignment-0-ginkokuryuu created by GitHub Classroom
+HCI A <br>
+Nur Muhammad Husnul Habib Yahya <br>
+05111740000094 <br>
