@@ -5,7 +5,7 @@ Nur Muhammad Husnul Habib Yahya <br>
 
 <h1>Web and application that i think have a <i>Bad Design</i></h1><br><br>
 
-<h2>1. Blender 2.79</h2><br>
+<h2>1. <a href="https://www.blender.org/">Blender 2.79</a></h2><br>
 <img src="images/blend4.png" style="max-width:100%;">
 <p>
   I choose this application because, yeah I often use this 3D modelling app when I make game assets for my games. My friend uses it a lot too. And my friend and I agreed some features in this application have a bad design in term of functionality. I will only pick 2 of them for this assignment.
@@ -30,5 +30,36 @@ Nur Muhammad Husnul Habib Yahya <br>
   Later I found out that the easiest way to navigate through all of function in blender is using Keyboard Shortcut. And yes,l it means that we <strong>HAVE TO REMEMBER</strong> all of the shortcuts to make our life easier when working in blender. When we use shortcuts, we will open a window like <a href="images/blend2.png">this</a> or <a href="images/blend3.png">this</a>.
 </p>
 <p>
-  I think that maybe blender can use a bigger font or make a better layout for things that we often use when doing a 3d modelling. Or it can use an option to toggle on or of some transparent UI for explaining the keyboard shortcuts or whatever. <a href="videos/blend.mp4">This</a> is a video of what my friend thinks about blender 2.79 especially the things that I have explained above.
+  I think that maybe blender can use a bigger font or make a better layout for things that we often use when doing a 3d modelling. Or it can use an option to toggle on or of some transparent UI for explaining the keyboard shortcuts or whatever. <a href="https://youtu.be/-HDzba8kf0c">This</a> is a video of what my friend thinks about blender 2.79 especially the things that I have explained above.
+</p>
+<br><br>
+
+<h2>2. <a href="http://rampoo.me/">Rampoo.me</a></h2><br>
+<p>
+  This website is my friend's website, his name is Anwar. Honestly there are many designs of this website that is bad I think. <i>Well</i> it's obvious because my friend still practicing on making a website. Despite having many bad designs, I will pick only one feature that I think it is bad designed/
+</p>
+
+<h3>a. The register system</h3><br>
+<p>
+  First time I did when I visited the website was creating account. Well the register form is normal like any other website do like this :
+</p>
+<img src="images/rampoo1.png"><br>
+<p>
+  I fill the form like any normal human will do
+</p>
+<img src="images/rampoo2.png"><br>
+<p>
+  But when I clicked the submit button, I was redirected back to the register page like this
+</p>
+<img src="images/rampoo3.png"><br>
+<p>
+  I don't know why, I suggest that maybe i was wrong when filling the form. But yes, there are <strong>NO WARNING</strong> or whatever it is like error massage, it's just redirecting me to the same page again! I re submit my form again but with different email, maybe because my email is'nt valid. but yeah <i>you know that</i> it is not solving my problem, still not successfully registered. I thought maybe the password should be combination of alphabet and number so I tried that. But it was failed <strong>AGAIN</strong>. I was then asked the creator of the web and he said <i>"Your password should 8 characters long or more"</i>. How am I suppossed to know that when ther is no any single instruction or error message in the website?
+</p>
+<p>
+  Thats why I think that it can be improved by giving instruction on the form or giving error message(s) when the user fill ou the form in the wrong way. <a href="https://youtu.be/qHhKvym-hjY">This</a> is the link to the video about my other friend's opinions about the website.
+</p>
+<br><br>
+<h2>Thats it</h2><br>
+<p>
+  Thanks for reading this assignment, sorry for any bad languages.<br><i>Have a good day!</i>
 </p>
